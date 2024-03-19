@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content {
+    width: 400px;
+}
+
+.form-btn {
+    background-color: #316FEA;
+    color: #FFFFFF;
+    border: none;
+}
+
+.social-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.social-content__box{
+    width: 48%;
+    border: 1.2px solid #D3D8DC;
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+    align-items: center;
+    height: 48px;
+    border-radius: 6px;
+}
+
+.divider {
+    padding: 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #BEC5CC;
+    gap: 5px;
+}
+.divider p {
+    width: 100%;
+    background: #E3E6E9;
+    height: 1px;
+}

@@ -1,0 +1,17 @@
+@import url(https://db.onlinewebfonts.com/c/3ddd0e3d1a076e112b27d8d9b7e20200?family=Basis+Grotesque+Pro);
+
+* {
+  font-family: "Basis Grotesque Pro";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 100%;
+  font-size: 16px;
+  line-height: 21px;
+  /* background: transparent; */
+  border-radius: 8px;
+  height: 48px;
+}

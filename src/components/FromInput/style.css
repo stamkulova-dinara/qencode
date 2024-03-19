@@ -1,0 +1,13 @@
+.inp {
+    border-radius: 6px;
+    width: 100%;
+    border: 1.2px solid #D3D8DC;
+    height: 48px;
+    padding: 0 12px;
+    /* color: #D3D8DC; */
+}
+
+::placeholder {
+    color: #b9bdbf;
+    opacity: 1; /* Firefox */
+  }
